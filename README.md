@@ -10,4 +10,14 @@ If you use this dataset in your research, please cite the accompanying paper:
 
 **Y. Abedini, M. H. Hajihosseini, and A. Heydarnoori. "DATAR: A Dataset for Tracking App Releases", In Proceedings of the 21st IEEE/ACM International Conference on Mining Software Repositories (MSR), Lisbon, Portugal, Apr. 2024.**
 	
+
+```python
+@inproceedings{abedini-msr2024-DATAR,
+  title={DATAR: A Dataset for Tracking App Releases},
+  author={Yasaman Abedini, Mohammad Hadi Hajihosseini, and Abbas Heydarnoori},
+  year={2024},
+  booktitle = {Proceedings of the 21st IEEE/ACM International Conference on Mining Software Repositories (MSR)},
+}
+```
+
 Thank you for using DATAR!
