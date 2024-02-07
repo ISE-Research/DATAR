@@ -14,7 +14,7 @@ If you use this dataset in your research, please cite the accompanying paper:
 ```python
 @inproceedings{abedini-msr2024-DATAR,
   title={DATAR: A Dataset for Tracking App Releases},
-  author={Yasaman Abedini, Mohammad Hadi Hajihosseini, and Abbas Heydarnoori},
+  author={Yasaman Abedini and Mohammad Hadi Hajihosseini and Abbas Heydarnoori},
   year={2024},
   booktitle = {Proceedings of the 21st IEEE/ACM International Conference on Mining Software Repositories (MSR)},
 }
